@@ -38,7 +38,7 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/test
 
 ## Nav bar background
 
-+ `_01_settings_colors.scss` line 37 `$topbar-background`
++ `_01_settings_colors.scss` line 36 `$topbar-background`
 + `_navigation.html` line 13 `background-color:`
 
 
