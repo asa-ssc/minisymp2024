@@ -5,8 +5,11 @@ header: no
 permalink: /abstract/
 ---
 
-We're excited to provide a platform where enthusiasts of statistical computing can come together to showcase their work, learn, and network. 
+Details to come.
 
+<!--
+
+We're excited to provide a platform where enthusiasts of statistical computing can come together to showcase their work, learn, and network. 
 
 During this symposium, we are introducing a speedy presentation session. Each presentation is designed to be concise and impactful, lasting only about 7 minutes. This format allows for a broad range of topics and ideas to be shared, sparking inspiration and meaningful discussions.
 
@@ -20,3 +23,4 @@ We invite you to submit your abstracts for consideration. Here are some guidelin
 
 Submit your abstract [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfUW5lvPj_otbepGISub0bXnrvRiLzjxIhH1A32prvQezPfyA/viewform).
 
+-->

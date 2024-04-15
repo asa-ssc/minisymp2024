@@ -7,5 +7,5 @@ permalink : "/contact/"
 
 Questions/comments/suggestions about the program and sponsorships are welcome.
 Please contact co-chairs:
-+ David Dahl (dahl at stat dot byu dot edu)
-+ Kun Chen (kun dot chen at uconn dot edu)
++ [Allison Theobold](https://statistics.calpoly.edu/allison-theobold) (co-chair), California Polytechnic State University
++ [David Dahl](https://dahl.byu.edu/) (co-chair), Brigham Young University

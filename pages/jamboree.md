@@ -5,6 +5,10 @@ header: no
 permalink: /jamboree/
 ---
 
+Details to come.
+
+<!--
+
 Data jamboree is a party of different computing tools solving the same data
 science problems. The [NYC Open Data of 311 Service
 Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
@@ -51,3 +55,5 @@ The scientific exercises of the jamboree are:
       performance of the model.
     - Repeat the analysis with another model (e.g., random forest; neural
       network; etc.).
+
+-->

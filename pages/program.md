@@ -7,6 +7,10 @@ permalink: /program/
 
 ## Schedule
 
+Details to come.
+
+<!--
+
 All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_Time_Zone).
 
 + 11:00 – 11:10: Welcoming Remark (Chair: [David Dahl](https://dahl.byu.edu/), Brigham Young University)
@@ -32,9 +36,9 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	Assistant Professor, Department of Statistical Sciences,  Wake
 	Forest University. [Code](https://github.com/LucyMcGowan/2023-data-jamboree)
 + 13:10 - 14:25: Lightning Session (Chair: [Kun Chen](https://kun-chen.uconn.edu), University of Connecticut)
-    <!-- - Abstract submission deadline: Monday, October 2, 2023 -->
-    <!-- - Notification: Accepted abstracts will be notified by Monday, October 16, 2023 -->
-    <!-- - Submit your abstract [here](https://forms.gle/5ZYbePJtAnsqXqhN7) -->
+    - Abstract submission deadline: Monday, October 2, 2023
+    - Notification: Accepted abstracts will be notified by Monday, October 16, 2023
+    - Submit your abstract [here](https://forms.gle/5ZYbePJtAnsqXqhN7)
     - Bowei Xi, Purdue University
 	<details><summary>Title:Vulnerabilities of Deep Learning and Robust Deep
 	Ensemble</summary>
@@ -200,3 +204,4 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
         + [Achim Zeileis](https://www.zeileis.org)
             - Editor-in-Chief of Journal of Statistical Software
             - Professor, Universität Innsbruck
+-->

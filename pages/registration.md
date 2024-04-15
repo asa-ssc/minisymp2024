@@ -5,7 +5,11 @@ header: no
 permalink: /registration/
 ---
 
-### Register now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
+Register is not yet open.
+
+<!--
+
+now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
 
 The registration was designed to encourage becoming Section on Statistical
 Computing (SSC) members. 
@@ -33,3 +37,5 @@ By registering, you agree to abide by [ASA's Code of Conduct](https://www.amstat
 ### Access Link and Password
 
 For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2023" sent sometime on Thursday, November 2.
+
+-->

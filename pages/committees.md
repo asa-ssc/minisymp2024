@@ -6,10 +6,8 @@ permalink: /committees/
 ---
 
 #### Organizing Committee
++ [Allison Theobold](https://statistics.calpoly.edu/allison-theobold) (co-chair), California Polytechnic State University
 + [David Dahl](https://dahl.byu.edu/) (co-chair), Brigham Young University
-+ [Kun Chen](https://kun-chen.uconn.edu) (co-chair), University of Connecticut
-+ [Mingzhao Hu](https://sites.google.com/view/mingzhaohu), Mayo Clinic
-+ [Jun Yan](https://statistics.uconn.edu/person/jun-yan/), University of Connecticut 
 
 #### Web Support Committee
 + [Jun Yan](https://statistics.uconn.edu/person/jun-yan/), University of Connecticut
