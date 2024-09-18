@@ -5,12 +5,11 @@ header: no
 permalink: /jamboree/
 ---
 
-Details to come.
+Data jamboree is a party of different computing tools solving the same data
+science problems. 
 
 <!--
-
-Data jamboree is a party of different computing tools solving the same data
-science problems. The [NYC Open Data of 311 Service
+The [NYC Open Data of 311 Service
 Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 contains all 311 requests of NYC from 2010 to present. We consider a subset,
 requests created between 00:00:00 01/15/2023 and 24:00:00 01/21/2023, downloaded
