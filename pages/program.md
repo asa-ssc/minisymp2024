@@ -20,7 +20,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 ---> 
 
 + 11:10 – 11:50: Keynote Address (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold))
-    - Speaker: [Adrian Rafferty](https://sites.stat.washington.edu/raftery/),
+    - Speaker: [Adrian Raftery](https://sites.stat.washington.edu/raftery/),
         - Blumstein-Jordan Professor of Statistics and Sociology, and Adjunct Professor of Atmospheric Sciences at the University of Washington
         - Author of `mclust`
     - Title: TBD
