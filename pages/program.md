@@ -25,7 +25,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
         - Author of `mclust`
     - Title: TBD
 
-+ 11:50 – 13:05: Data Jamboree (Chair: [Jackson Laurier](https://faculty.bentley.edu/profile/jlautier), Bentley University)
++ 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University)
     Each language, in alphabetical order, will be allocated 15 minutes to tackle
     the same problems from the NYC 311 requests data, followed by questions/answers.
     - Python: [Susan VanderPlas](https://statistics.unl.edu/susan-vanderplas), 
