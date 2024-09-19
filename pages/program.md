@@ -10,6 +10,7 @@ permalink: /program/
 All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_Time_Zone).
 
 + 11:00 – 11:10: Welcoming Remark (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold), Cal Poly)
+
 <!---
     - [Ron Wasserstein](https://www.amstat.org/about-asa/ronald-l-wasserstein),
 	Executive Director, [American Statistical Association](https://www.amstat.org/)
@@ -25,9 +26,8 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
         - Author of `mclust`
     - Title: TBD
 
-+ 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University)
-    Each language, in alphabetical order, will be allocated 15 minutes to tackle
-    the same problems from the NYC 311 requests data, followed by questions/answers.
++ 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University) 
+  - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on NBA players, followed by questions/answers.
     - Python: [Susan VanderPlas](https://statistics.unl.edu/susan-vanderplas), 
       + Associate Professor, Department of Statistics, University of Nebraska-Lincoln. 
       + [Code]()
