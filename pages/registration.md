@@ -5,14 +5,10 @@ header: no
 permalink: /registration/
 ---
 
-Register is not yet open.
+Register is 
+now on [Eventbrite](https://www.eventbrite.com/e/statistical-computing-in-action-2024-registration-882332419017?aff=oddtdtcreator)
 
-<!--
-
-now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
-
-The registration was designed to encourage becoming Section on Statistical
-Computing (SSC) members. 
+The registration was designed to encourage becoming Section on Statistical Computing (SSC) members. 
 
 - Students:
     - Free for SSC members
@@ -24,18 +20,15 @@ Computing (SSC) members.
     - $40 for non-ASA members
 - Group watch-party:
     - Register once to host a "watch-party" for students and/or colleagues.
-        - Los Angeles - [UCLA Watch Party](https://calendar.library.ucla.edu/event/11429849?k=0d1dd3535f028173994172bf454b29ac) 
-    - We suggest a $100 donation to support the section, but will thankfully accept more.  😀
+    - $100
 
-For non-ASA members, please consider [joining
-ASA](https://www.amstat.org/membership/become-a-member). 
+For non-ASA members, please consider [joining ASA](https://www.amstat.org/membership/become-a-member). 
 For ASA members, please keep your ASA member ID handy for registration.
 
 ### Register now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
 
 By registering, you agree to abide by [ASA's Code of Conduct](https://www.amstat.org/meetings/code-of-conduct).
+
 ### Access Link and Password
 
-For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2023" sent sometime on Thursday, November 2.
-
--->
+For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2024" sent sometime on Thursday, October 31.
