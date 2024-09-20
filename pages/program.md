@@ -10,10 +10,10 @@ permalink: /program/
 All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_Time_Zone).
 
 + 11:00 – 11:10: Welcoming Remark (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold), Cal Poly)
-
-<!---
     - [Ron Wasserstein](https://www.amstat.org/about-asa/ronald-l-wasserstein),
 	Executive Director, [American Statistical Association](https://www.amstat.org/)
+
+<!---
     - [Mine Çetinkaya-Rundel](https://scholars.duke.edu/person/mine), Professor
       of the Practice and the Director of Undergraduate Studies at the
       [Department of Statistical Science](https://stat.duke.edu/), [Duke University](https://duke.edu/); 
@@ -77,3 +77,6 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
         + [Noah Giansiracusa](https://www.noahgian.com/)
             - Associate Professor of Mathematics at Bentley University 
             - Author of [*How Algorithms Create and Prevent Fake News*](https://www.noahgian.com/books)
+        + [Gail Burrill](https://directory.natsci.msu.edu/Directory/Profiles/Person/102827?org=39&group=81)
+            - Mathematics Specialist in PRIME (Program in Mathematics Education) at Michigan State University
+            - Co-director of the Institute for Advanced Study’s International Seminar in the Park City Mathematics Institute
