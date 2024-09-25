@@ -25,10 +25,10 @@ The registration was designed to encourage becoming Section on Statistical Compu
 For non-ASA members, please consider [joining ASA](https://www.amstat.org/membership/become-a-member). 
 For ASA members, please keep your ASA member ID handy for registration.
 
-### Register now on [Eventbrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
+### Register now on [Eventbrite](https://www.eventbrite.com/e/statistical-computing-in-action-2024-registration-882332419017?aff=oddtdtcreator)
 
 By registering, you agree to abide by [ASA's Code of Conduct](https://www.amstat.org/meetings/code-of-conduct).
 
 ### Access Link and Password
 
-For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2024" sent sometime on Thursday, October 31.
+For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2024" sent 2-3 days prior to the event. The email will be sent to the email address used when registering on Eventbrite. 
