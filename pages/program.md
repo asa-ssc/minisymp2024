@@ -22,9 +22,24 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 
 + 11:10 – 11:50: Keynote Address (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold))
     - Speaker: [Adrian Raftery](https://sites.stat.washington.edu/raftery/),
-        - Blumstein-Jordan Professor of Statistics and Sociology, and Adjunct Professor of Atmospheric Sciences at the University of Washington
-        - Author of `mclust`
-    - Title: TBD
+        - Born in Ireland, Adrian E. Raftery is Blumstein-Jordan Professor Emeritus of Statistics and
+          Sociology at the University of Washington. He develops new statistical methods for problems
+          in the social, environmental and health sciences. An elected member of the U.S. National Academy
+          of Sciences, he was identified as the world's most cited researcher in mathematics for the
+          decade 1995-2005 by Thomson-ISI. He has supervised 34 Ph.D. graduates, of whom 21 hold or have
+          held tenure-track university faculty positions [Extended Bio](https://sites.stat.washington.edu/raftery/bio.html).
+    - Title: Statistical Inference with Model Uncertainty
+    - Abstract: Choosing a statistical model and accounting for uncertainty about this choice
+      are important parts of the scientific process and are required for common statistical
+      tasks such as parameter estimation, interval estimation, statistical inference, point
+      prediction, and interval prediction. A canonical example is the choice of variables in
+      a linear regression model. Many ways of doing this have been proposed, including Bayesian
+      and penalized regression methods, and it is not clear which are best. We compare 21 popular
+      methods via an extensive simulation study based on a wide range of real datasets. We found that
+      three adaptive Bayesian model averaging methods performed best across all the statistical tasks
+      and that two of these were also among the most computationally efficient. We also compared
+      different priors on model space. Finally we addressed the question of whether model averaging
+      provides an advantage over model selection. This is joint work with Anupreet Porwal.
 
 + 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University) 
   - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on NBA players, followed by questions/answers.
