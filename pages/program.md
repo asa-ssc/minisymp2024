@@ -42,7 +42,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
       provides an advantage over model selection. This is joint work with Anupreet Porwal.
 
 + 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University) 
-  - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on NBA players, followed by questions/answers.
+  - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on Olympic athletes, followed by an analysis on athletes' birth month. 
     - Python: [Susan VanderPlas](https://statistics.unl.edu/susan-vanderplas), 
       + Associate Professor, Department of Statistics, University of Nebraska-Lincoln. 
       + [Code]()
@@ -94,4 +94,5 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
             - Author of [*How Algorithms Create and Prevent Fake News*](https://www.noahgian.com/books)
         + [Gail Burrill](https://directory.natsci.msu.edu/Directory/Profiles/Person/102827?org=39&group=81)
             - Mathematics Specialist in PRIME (Program in Mathematics Education) at Michigan State University
-            - Co-director of the Institute for Advanced Study’s International Seminar in the Park City Mathematics Institute
+            - Co-director of the Institute for Advanced Study’s International Seminar 
+            in the Park City Mathematics Institute
