@@ -20,6 +20,8 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	    and 2023 Chair of the ASA Section on Statistical Computing
 ---> 
 
+</br> 
+
 + 11:10 – 11:50: Keynote Address (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold))
     - Speaker: [Adrian Raftery](https://sites.stat.washington.edu/raftery/),
         - Born in Ireland, Adrian E. Raftery is Blumstein-Jordan Professor Emeritus of Statistics and
@@ -41,22 +43,27 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
       different priors on model space. Finally we addressed the question of whether model averaging
       provides an advantage over model selection. This is joint work with Anupreet Porwal.
 
+</br> 
+
 + 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University) 
   - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on Olympic athletes, followed by an analysis on athletes' birth month. 
     - Python: [Susan VanderPlas](https://statistics.unl.edu/susan-vanderplas), 
       + Associate Professor, Department of Statistics, University of Nebraska-Lincoln. 
-      + [Code]()
+      + [Code](https://srvanderplas.github.io/2024-data-jamboree-python/python-narrative.html)
     - Julia: [J. Brandon Carter](https://jbcart.github.io/)
       + PhD Candidate, Department of Statistics and Data Science, University of Texas at Austin
       + [Code]()
     - R: [Kelly Bodwin](https://www.kelly-bodwin.com/)
       + Associate Professor, Department of Statistics, Cal Poly
       + [Code]()
-+ 13:10 - 14:25: Lightning Session (Chair: [David Dahl](https://dahl.byu.edu/), Brigham Young University)
-    - Abstract submission deadline: Wednesday, October 9
-    - Notification: Accepted abstracts will be notified by Friday, October 11
-    - Submit your abstract [here](https://forms.gle/Rs1RU4K8Cj8ELURh6)
-    
+
+<!--
+ + 13:10 - 14:25: Lightning Session (Chair: [David Dahl](https://dahl.byu.edu/), Brigham Young University)
+      - Abstract submission deadline: Wednesday, October 9
+      - Notification: Accepted abstracts will be notified by Friday, October 11
+      - Submit your abstract [here](https://forms.gle/Rs1RU4K8Cj8ELURh6)
+--->
+
 <!--
     - Zoe Rehnberg and Emily Robinson, California Polytechnic State University
 	<details><summary>Enhancing Statistical Computing Education through Game
@@ -84,7 +91,9 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	</details>
 --->
 
-+ 14:30 - 15:30: Panel Discussion (Moderator: [Steven Chiou](https://www.sychiou.com/))
+</br> 
+
++ 13:10 - 14:15: Panel Discussion (Moderator: [Steven Chiou](https://www.sychiou.com/))
     - Theme: AI in the Workplace
     - Panelists:
         + [Jane Tan](https://www.smu.edu/cox/business-school-community/faculty/jane-tan)
