@@ -5,9 +5,6 @@ header: no
 permalink: /index.html
 homepage: true
 ---
-
-Details to come.
-
 <!--
 
 + **Date/Time:** Saturday, November 4, 2023, 11 am -– 3:30 pm Central Time
@@ -16,6 +13,8 @@ Details to come.
 + [**Flyer**](https://asa-ssc.github.io/minisymp2023/assets/flyer.pdf)
 
 -->
+
+Saturday, November 2, 2024, from 11:00 am to 3:30 pm Central Time
 
 Organized by the [ASA Section on Statistical Computing](https://community.amstat.org/jointscsg-section/home), the mini-symposium aims to:
 
