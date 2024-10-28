@@ -19,8 +19,5 @@ Organized by the [ASA Section on Statistical Computing](https://community.amstat
 + Help practitioners sharpen their statistical computing skills; and
 + Foster community across different computing languages.
 
-+ **Websites for previous mini-symposiums:**
-    - [2024](https://asa-ssc.github.io/minisymp2024/)
-    - [2023](https://asa-ssc.github.io/minisymp2023/)
-    - [2022](https://asa-ssc.github.io/minisymp2022/)
++ **Websites for previous mini-symposiums:** [2023](https://asa-ssc.github.io/minisymp2023/) [2022](https://asa-ssc.github.io/minisymp2022/)
 
