@@ -8,9 +8,8 @@ homepage: true
 
 + **Date/Time:**  Saturday, November 2, 2024, from 11:00 am to 3:30 pm Central Time
 + **Location:** Online. For the link and password, look for an email from "ASA Section on Statistical Computing" with subject "Link for Statistical Computing in Action 2024" sent sometime on Thursday, October 31.
-
++ **Registration** at [EventBrite](https://www.eventbrite.com/e/882332419017?aff=oddtdtcreator)
 <!--
-+ **Registration** at [EventBrite](https://www.eventbrite.com/e/691734124387?aff=oddtdtcreator)
 + [**Flyer**](https://asa-ssc.github.io/minisymp2024/assets/flyer.pdf)
 -->
 
