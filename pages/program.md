@@ -20,7 +20,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	    and 2023 Chair of the ASA Section on Statistical Computing
 ---> 
 
-</br> 
+<br> 
 
 + 11:10 – 11:50: Keynote Address (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold))
     - Speaker: [Adrian Raftery](https://sites.stat.washington.edu/raftery/),
@@ -43,7 +43,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
       different priors on model space. Finally we addressed the question of whether model averaging
       provides an advantage over model selection. This is joint work with Anupreet Porwal.
 
-</br> 
+<br> 
 
 + 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University) 
   - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on Olympic athletes, followed by an analysis on athletes' birth month. 
@@ -91,7 +91,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 	</details>
 --->
 
-</br> 
+<br> 
 
 + 13:10 - 14:15: Panel Discussion (Moderator: [Steven Chiou](https://www.sychiou.com/))
     - Theme: AI in the Workplace
