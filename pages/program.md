@@ -5,6 +5,8 @@ header: no
 permalink: /program/
 ---
 
+### [Zoom Webinar Link](https://byu.zoom.us/j/91475636975?pwd=oNTxMogrhxdX5Hw93xVU56LeFdbJcv.1)
+
 ## Schedule
 
 All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_Time_Zone).
