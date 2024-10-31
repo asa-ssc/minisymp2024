@@ -9,7 +9,9 @@ permalink: /program/
 
 All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_Time_Zone).
 
-+ 11:00 – 11:10: Welcoming Remark (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold), Cal Poly)
++ 11:00 – 11:10: Welcoming Remarks (Chair: [Allison Theobold](https://statistics.calpoly.edu/allison-theobold), Cal Poly)
+    - [Tim Hesterberg](https://www.timhesterberg.net/), 
+    ASA Section on Statistical Computing, Chair Elect 
     - [Ron Wasserstein](https://www.amstat.org/about-asa/ronald-l-wasserstein),
 	Executive Director, [American Statistical Association](https://www.amstat.org/)
 
