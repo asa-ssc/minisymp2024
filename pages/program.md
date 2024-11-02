@@ -48,7 +48,9 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
 <br> 
 
 + 11:50 – 13:05: Data Jamboree (Chair: [Jackson Lautier](https://jacksonlautier.com/), Bentley University) 
-  - Each language, in alphabetical order, will be allocated 15-minutes to tackle the same problems from webscraping data on Olympic athletes, followed by an analysis on athletes' birth month. 
+  - Each language, in alphabetical order, will be allocated 12-minutes to tackle the same problems from webscraping data on Olympic athletes, followed by an analysis on athletes' birth month. 
+    - Introduction to Webscraping
+      + [Kelly Bodwin](https://www.kelly-bodwin.com/) will walk everyone through Webscraping 101, the nuts and bolts of how webscraping works.  
     - Python: [Susan VanderPlas](https://statistics.unl.edu/susan-vanderplas), 
       + Associate Professor, Department of Statistics, University of Nebraska-Lincoln. 
       + [Code](https://srvanderplas.github.io/2024-data-jamboree-python/python-narrative.html)
