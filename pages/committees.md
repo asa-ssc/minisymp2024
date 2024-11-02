@@ -10,6 +10,7 @@ permalink: /committees/
 + [David B. Dahl](https://dahl.byu.edu/) (co-chair), Brigham Young University
 + [Jackson P. Lautier](https://jacksonlautier.com/), Bentley University
 + [Sy Han (Steven) Chiou](https://sychiou.com/), Southern Methodist University
++ [Yu Wang](https://www.mcw.edu/departments/data-science-institute/people/yu-wang-phd/), Medical College of Wisconsin
 
 #### Web Support Committee
 + [Jun Yan](https://statistics.uconn.edu/person/jun-yan/), University of Connecticut
