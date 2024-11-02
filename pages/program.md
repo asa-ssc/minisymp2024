@@ -58,7 +58,7 @@ All times are in the [Central Time Zone](https://en.wikipedia.org/wiki/Central_T
       + [Code](https://srvanderplas.github.io/2024-data-jamboree-python/python-narrative.html)
     - Julia: [J. Brandon Carter](https://jbcart.github.io/)
       + PhD Candidate, Department of Statistics and Data Science, University of Texas at Austin
-      + [Code]()
+      + [Code](https://github.com/jbcart/DataJamboree2024)
     - R: [Kelly Bodwin](https://www.kelly-bodwin.com/)
       + Associate Professor, Department of Statistics, Cal Poly
       + [Code]()
